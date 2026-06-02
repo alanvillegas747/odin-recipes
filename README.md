@@ -1,1 +1,1 @@
-# odin-recipes
+This repo will demonstrate the HTML skills I learned from The Odin Project by making a recipebook with HTML.
